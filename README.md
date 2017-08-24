@@ -10,5 +10,28 @@ That's what this repo's all about.
 
 ✨🍰✨
 
-## Grid Frameworks
+## Ready–to-Copy HTML Skeletons Using CDNjs–Hosted Assets:
 
+- Material Framework
+- Leaf
+- Materialize
+- Essence
+- Bootstrap
+- Semantic UI
+- Foundation
+- Cascade
+- Baseguide
+- Siimple
+- Responsive Cat
+- Sculpt
+- Turret
+- Concise CSS
+- Blueprint
+- Ulkit
+- Modest Grid
+- Schema
+- Metro UI
+- Responsive Grid System
+- YAML
+
+See something missing? [Send a pull request](https://github.com/kennethreitz/awesome-cdn/pulls)! :)
