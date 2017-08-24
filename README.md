@@ -12,7 +12,7 @@ That's what this repo's all about.
 
 ## Ready–to-Copy HTML Skeletons Using CDNjs–Hosted Assets:
 
-- Tufte CSS (official)
+- [Tufte CSS](tufte.html) ([official](https://edwardtufte.github.io/tufte-css/))
 - Material Framework (official)
 - Leaf (official)
 - Materialize (official)
