@@ -12,27 +12,27 @@ That's what this repo's all about.
 
 ## Ready–to-Copy HTML Skeletons Using CDNjs–Hosted Assets:
 
-- Tufte CSS
-- Material Framework
-- Leaf
-- Materialize
-- Essence
-- Bootstrap
-- Semantic UI
-- Foundation
-- Cascade
-- Baseguide
-- Siimple
-- Responsive Cat
-- Sculpt
-- Turret
-- Concise CSS
-- Blueprint
-- Ulkit
-- Modest Grid
-- Schema
-- Metro UI
-- Responsive Grid System
-- YAML
+- Tufte CSS (official)
+- Material Framework (official)
+- Leaf (official)
+- Materialize (official)
+- Essence (official)
+- Bootstrap (official)
+- Semantic UI (official)
+- Foundation (official)
+- Cascade (official)
+- Baseguide (official)
+- Siimple (official)
+- Responsive Cat(official)
+- Sculpt (official)
+- Turret (official)
+- Concise CSS (official)
+- Blueprint (official)
+- Ulkit (official)
+- Modest Grid (official)
+- Schema (official)
+- Metro UI (official)
+- Responsive Grid System (official)
+- YAML (official)
 
 See something missing? [Send a pull request](https://github.com/kennethreitz/awesome-cdn/pulls)! :)
