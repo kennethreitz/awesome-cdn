@@ -6,6 +6,8 @@
 
 **Notice:** This repo is a work-in-progress. Feel free to help out!
 
+----------------------
+
 [CDNjs](https://cdnjs.com) is an excellent service, but it is missing one key component — copy/paste–able HTML examples! 
 
 That's what this repo's all about. 
