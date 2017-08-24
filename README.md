@@ -12,7 +12,7 @@ That's what this repo's all about.
 
 ## Ready–to-Copy HTML Skeletons Using CDNjs–Hosted Assets:
 
-- [Skeleton] ([official](http://getskeleton.com))
+- [Skeleton]https://github.com/kennethreitz/awesome-cdn/blob/master/skeleton.html ([official](http://getskeleton.com))
 - [Tufte CSS](https://github.com/kennethreitz/awesome-cdn/blob/master/tufte-css.html) ([official](https://edwardtufte.github.io/tufte-css/))
 - Material Framework (official)
 - Leaf (official)
